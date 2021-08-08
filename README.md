@@ -35,14 +35,13 @@
 ⌚︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-JavaScript               0 secs              ███████████████████░░░░░░   78.21% 
-HTML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.79%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->

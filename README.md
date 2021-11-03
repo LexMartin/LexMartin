@@ -45,5 +45,5 @@ Mac                      7 hrs 47 mins       ███████████�
 ```
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->

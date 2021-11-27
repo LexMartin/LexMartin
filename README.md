@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142588%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142331%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,14 +36,13 @@
 ⌚︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-JavaScript               11 hrs 40 mins      █████████████████████████   99.86% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+JavaScript               14 hrs 23 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 41 mins      █████████████████████████   100.0%
+Mac                      14 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->

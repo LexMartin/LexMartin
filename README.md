@@ -26,7 +26,7 @@
 
 ### 🤓 Here are some of my stats 👇🏽
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,5 +46,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/05/2022 00:24:20 UTC
+ Last Updated on 13/05/2022 00:27:59 UTC
 <!--END_SECTION:waka-->

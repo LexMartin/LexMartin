@@ -38,13 +38,15 @@
 ⌚︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               14 mins             ███████████████████████░░   92.54% 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/05/2022 00:27:58 UTC
+ Last Updated on 15/05/2022 00:30:35 UTC
 <!--END_SECTION:waka-->

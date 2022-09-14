@@ -26,7 +26,7 @@
 
 ### 🤓 Here are some of my stats 👇🏽
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,15 +38,14 @@
 ⌚︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-CSS                      51 mins             ███████████████░░░░░░░░░░   61.43% 
-HTML                     23 mins             ███████░░░░░░░░░░░░░░░░░░   28.84% 
-JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
+CSS                      1 hr 45 mins        █████████████████░░░░░░░░   71.29% 
+HTML                     42 mins             ███████░░░░░░░░░░░░░░░░░░   28.71%
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.0%
+Mac                      2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/09/2022 00:29:12 UTC
+ Last Updated on 14/09/2022 00:30:47 UTC
 <!--END_SECTION:waka-->

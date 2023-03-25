@@ -26,11 +26,11 @@
 
 ### 🤓 Here are some of my stats 👇🏽
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,12 +38,16 @@
 🕑︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 27 mins        ███████████████████████░░   93.65 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2023 00:21:22 UTC
+ Last Updated on 25/03/2023 00:20:21 UTC
 <!--END_SECTION:waka-->

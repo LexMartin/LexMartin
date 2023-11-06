@@ -38,14 +38,12 @@
 🕑︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-Other                    57 mins             █████████████████████░░░░   85.92 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/11/2023 00:22:04 UTC
+ Last Updated on 06/11/2023 00:21:02 UTC
 <!--END_SECTION:waka-->

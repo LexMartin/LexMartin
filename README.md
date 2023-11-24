@@ -30,6 +30,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.9%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/11/2023 00:21:07 UTC
+```text
+🕑︎ Time Zone: America/Cancun
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 24/11/2023 00:20:28 UTC
 <!--END_SECTION:waka-->

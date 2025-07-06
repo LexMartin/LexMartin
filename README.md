@@ -26,12 +26,28 @@
 
 ### 🤓 Here are some of my stats 👇🏽
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.9%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/07/2025 00:31:09 UTC
+```text
+🕑︎ Time Zone: America/Cancun
+
+💬 Programming Languages: 
+Markdown                 1 hr 26 mins        ████████████████░░░░░░░░░   63.11 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Image (svg)              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+TOML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+WSL                      2 hrs 17 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/07/2025 00:36:33 UTC
 <!--END_SECTION:waka-->

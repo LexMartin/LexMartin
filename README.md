@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.9%20thousand%20lines%20of%20code-blue)
 
@@ -38,12 +38,13 @@
 🕑︎ Time Zone: America/Cancun
 
 💬 Programming Languages: 
-TypeScript               15 mins             █████████████████████████   100.00 % 
+TypeScript               15 mins             █████████████████████████   99.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
 Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2025 00:33:42 UTC
+ Last Updated on 13/12/2025 00:32:21 UTC
 <!--END_SECTION:waka-->
